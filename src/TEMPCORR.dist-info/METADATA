@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.19
+Name: TEMPCORR
+Formal-Name: 低温修正门阈温度计算器
+App-ID: com.coldtemocorr.TEMPCORR
+Version: 0.0.1
+Home-page: https://github.com/wpilotcn/TEMOCORR
+Download-URL: https://github.com/wpilotcn/TEMOCORR
+Author: wpilot
+Author-email: wpilotcn@gmail.com
+Summary: Cold Temperature Corrections
